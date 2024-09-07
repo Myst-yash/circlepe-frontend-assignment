@@ -34,8 +34,8 @@ To set up the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/DJ-LIFE/circlepe-frontend-task.git
-   cd my-app
+   git clone https://github.com/Myst-yash/circlepe-frontend-assignment.git
+   cd circlepe-frontend-assignment
    ```
 
 2. **Install dependencies**:
@@ -57,6 +57,6 @@ import Home from './path/to/Home';
 Open http://localhost:3000 with your browser to launch.
 
 ## Deployment
-View live Project on vercel  [Link](https://circlepe-frontend-task.vercel.app/).
+View live Project on vercel  [Link](https://circlepe-frontend-assignment-gold.vercel.app/).
 
 Feel free to modify and adapt the project to suit your needs!
